@@ -1,0 +1,6 @@
+# Major PROJECT
+
+Take the IRIS dataset,create a model and deploy it online
+ using streamlit and the STREAMLIT web app should have 
+sliders,which you can vary for sepal length,sepal width,
+petal length and petal width
